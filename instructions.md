@@ -40,3 +40,12 @@
 
 >**git checkout -b <имя ветки>** - *создать ветку и перейти к ней*
 
+
+
+``diff --git a/instructions.md b/instructions.md
+index c95f0ad..9cdc47f 100644
+--- a/instructions.md
++++ b/instructions.md
+@@ -40,3 +40,5 @@``
+
+
